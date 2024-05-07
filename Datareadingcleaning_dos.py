@@ -1,5 +1,5 @@
 import pandas as pd
-%pip install xlrd
+
 
 # Especifica la ruta de tu archivo Excel
 ruta_excel = "C:/Users/jpcan/OneDrive/Documentos/Andes Universidad/Analitica computacional/Proyecto 2/Copia de default of credit card clients.xls"
